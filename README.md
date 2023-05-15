@@ -1,5 +1,5 @@
 # Sparse, Empirically Optimized Quadrature for Radiative Calculations
-Code and data necessary to reproduce work presented in our paper "Sparse, Empirically Optimized Quadrature for Radiative Calculations" (Czarnecki, Pincus, and Polvani, 2023). 
+Code and data necessary to reproduce figures presented in our paper "Sparse, Empirically Optimized Quadrature for Radiative Calculations" (Czarnecki, Pincus, and Polvani, 2023). 
 
 ## Data
 Line-by-line data necessary to perform the optimizations was used from the publicly-available <a href = 'https://confluence.ecmwf.int/display/CKDMIP/CKDMIP%3A+Correlated+K-Distribution+Model+Intercomparison+Project+Home'>CKDMIP</a> project (Hogan and Matricardi, 2020).
